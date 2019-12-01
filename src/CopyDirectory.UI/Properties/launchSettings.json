@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CopyDirectory.UI": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\temp\\DCSL\\Source C:\\temp\\DCSL\\Target"
+    }
+  }
+}
